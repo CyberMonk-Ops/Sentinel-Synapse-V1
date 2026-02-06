@@ -1,0 +1,10 @@
+python-telegram-bot
+yt-dlp
+requests
+beautifulsoup4
+psutil
+python-dotenv
+gTTS
+rich
+selenium
+undetected-chromedriver
