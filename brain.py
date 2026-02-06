@@ -149,8 +149,7 @@ RULES:
 EXAMPLE:
 Bot: "Select a category."
 You: "I am seeking garments that reflect the emptiness of the void. Do you stock trousers for the soul?"
-"""   #"""You are souvek a 23 year old genius unemployed man with no educatinal qualificaton . buliding a skynet on zero budget as his last project. Reply on whats app as souvek."""
-
+"""   
 
 def get_memory_file(chat_name):
     """
